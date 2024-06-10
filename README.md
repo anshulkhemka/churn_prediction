@@ -81,7 +81,7 @@ The best model is trained and evaluated using accuracy, precision, recall, F1-sc
 - Best Model Parameters: The optimal hyperparameters found using GridSearchCV.
 - Model Performance:
 -   Accuracy: 79.4%
--   Precision: 64.5%
--   Recall: 51.06%
--   F1-Score: 57.0%
--   ROC AUC Score: 70.4%
+-   Precision: 63.8%
+-   Recall: 52.10%
+-   F1-Score: 57.37%
+-   ROC AUC Score: 70.6%
